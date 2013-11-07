@@ -35,10 +35,15 @@ int main( int argc, char ** argv)
     for( int i = 2 ; i < argc ; i ++ )
         inputFiles << argv[i];
     QString outputFile = argv[1];
-    cerr << "Input files:\n";
-    for( int i = 0 ; i < inputFiles.size() ; i ++ )
-        cerr << QString("  %1 %2\n").arg(i,3).arg(inputFiles[i]).toStdString();
-    cerr << QString("Output file:\n  %1\n").arg(outputFile).toStdString();
+//    cerr << "Input files:\n";
+//    for( int i = 0 ; i < inputFiles.size() ; i ++ )
+//        cerr << QString("  %1 %2\n").arg(i,3).arg(inputFiles[i]).toStdString();
+//    cerr << QString("Output file:\n  %1\n").arg(outputFile).toStdString();
+
+    if( QFileInfo(outputFile).exists()) {
+        cerr << "*** ERROR *** output file already exists, I refuse to overwrite it.\n";
+        exit(-1);
+    }
 
 
     bool success = false;

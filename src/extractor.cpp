@@ -578,7 +578,7 @@ FitsInfo parse( const QString & fname)
 
     // make sure the data segment following header is big enough for the data
     qint64 inputSize = fp.size();
-    fits.dataSize = (qint64) fits.naxis1 * fits.naxis2 * fits.naxis3 * bitpixToSize( fits.bitpix);
+    fits.dataSize = qint64(fits.naxis1) * fits.naxis2 * fits.naxis3 * bitpixToSize( fits.bitpix);
     fits.dataOffset = hdr.dataOffset();
     if( fits.dataOffset + fits.dataSize > inputSize)
         throw QString( "Invalid fits file size. Maybe accidentally truncated?");
@@ -758,19 +758,25 @@ static void checkForCompatibility( vector<FitsInfo> & fileInfo)
     if( errors) throw "Incompatible FITS files.";
 
     // now check if they cover a consecutive range in the 3rd axis
-    double currStart = f1.frameStart;
+//    double currStart = f1.frameStart;
     double currEnd = f1.frameStart + f1.cdelt3 * f1.naxis3;
     for( size_t i = 1 ; i < fileInfo.size() ; i ++) {
+        FitsInfo & f1 = fileInfo[i-1];
         FitsInfo & f2 = fileInfo[i];
         double diff = f2.frameStart - currEnd;
-        cerr << QString("diff = %1 (%2 - %3)\n").arg(diff,20,'f').arg(f2.frameStart,20,'f').arg(currEnd,20,'f').toStdString();
         if( f1.cdelt3 < 0) diff = - diff;
-        string finfo = QString( "\n  %1\n  %2\n").arg(fileInfo[i-1].fileName).arg(f2.fileName).toStdString();
-        if( diff / fabs(f1.cdelt3) > fabs( f1.cdelt3 / 1e6))
-            cerr << "*** WARNING *** Gap in axis #3 between files " << finfo;
-        if( diff / fabs(f1.cdelt3) < -fabs( f1.cdelt3 / 1e6))
-            cerr << "*** WARNING *** Overlap in axis #3 between files " << finfo;
-        currStart = f2.frameStart;
+//        cerr << QString("diff = %1 (%2..%3)\n").arg(diff,20,'f').arg(f2.frameStart,20,'f').arg(currEnd,20,'f').toStdString();
+        if( diff / fabs(f1.cdelt3) > fabs( f1.cdelt3 / 1e6)) {
+            cerr << "*** WARNING *** big gap (" << diff << ") between "
+                 << QFileInfo(f2.fileName).fileName().toStdString() << " and "
+                 << QFileInfo(f2.fileName).fileName().toStdString() << "\n";
+        }
+        if( diff / fabs(f1.cdelt3) < -fabs( f1.cdelt3 / 1e6)) {
+            cerr << "*** WARNING *** big overlap (" << diff << ") between "
+                 << QFileInfo(f2.fileName).fileName().toStdString() << " and "
+                 << QFileInfo(f2.fileName).fileName().toStdString() << "\n";
+        }
+//        currStart = f2.frameStart;
         currEnd = f2.frameStart + f2.cdelt3 * f2.naxis3;
     }
 }
@@ -808,7 +814,7 @@ void clipData( char * buff, qint64 n, double min, double max, FitsInfo & info) {
 void combineFITS( const QStringList & inputFilenames, const QString & outputFileName )
 {
     // parse all headers from the files info FitsInfo structures
-    cerr << "Parsing all headers.\n";
+    cerr << "Parsing all headers:\n";
     int combinedNaxis3 = 0;
     vector<FitsInfo> fileInfo;
     {
@@ -816,25 +822,28 @@ void combineFITS( const QStringList & inputFilenames, const QString & outputFile
             FitsInfo fits = parse( inputFilenames[i]);
             fileInfo.push_back( fits);
             combinedNaxis3 += fits.naxis3;
-            cerr << QString("%1. starts: %2 ends: %3 next: %4\n")
-                    .arg(i).arg(fits.frameStart,0,'f').arg(fits.frameEnd,0,'f').arg(fits.frameNext,0,'f').toStdString();
+            cerr << QString("  %1 freq: %2..%3,%4\n")
+                    .arg(QFileInfo(fits.fileName).fileName())
+                    .arg(fits.frameStart,0,'f')
+                    .arg(fits.frameEnd,0,'f')
+                    .arg(fits.frameNext,0,'f')
+                    .toStdString();
         }
     }
-    cerr << "Parsing done. Frames found: " << combinedNaxis3 << "\n";
+    cerr << "Found " << combinedNaxis3 << " frames.\n";
 
     // sort the files based on frequency
     {
         FitsInfo fits = parse( fileInfo[0].fileName);
         if( fits.cdelt3 < 0) {
-            cerr << "Sorting in descending order\n";
+            cerr << "Sorting by freq. in descending order:\n";
             std::sort( fileInfo.begin(), fileInfo.end(), FitsInfoGreater());
         } else {
-            cerr << "Sorting in ascending order\n";
+            cerr << "Sorting by freq. in ascending order:\n";
             std::sort( fileInfo.begin(), fileInfo.end(), FitsInfoLess());
         }
-        cerr << "Sorted files by frequency:\n";
         for( size_t i = 0 ; i < fileInfo.size() ; i ++ )
-            cerr << QString(" %1. %2").arg(i,3).arg(fileInfo[i].fileName).toStdString() << "\n";
+            cerr << QString("  %1").arg(fileInfo[i].fileName).toStdString() << "\n";
     }
 
     // make sure fits headers are compatible
@@ -863,11 +872,14 @@ void combineFITS( const QStringList & inputFilenames, const QString & outputFile
     char * buff = (char *) malloc( buffSize); assert( buff);
     QTime timer; timer.start(); QTime timer2; timer2.start();
     qint64 processed = 0;
-    qint64 totalBytes = 0; for( size_t i = 0 ; i < fileInfo.size() ; i ++) totalBytes += fileInfo[i].dataSize;
-    cerr << "Starting concatenation. Total size = " << formatBytes(totalBytes).toStdString() << "\n";
+    qint64 totalBytes = 0;
+    for( size_t i = 0 ; i < fileInfo.size() ; i ++) {
+        totalBytes += fileInfo[i].dataSize;
+    }
+    cerr << "Starting concatenation of " << formatBytes(totalBytes).toStdString() << "\n";
     for( size_t i = 0 ; i < fileInfo.size() ; i ++ ) {
         QString fname = fileInfo[i].fileName;
-        cerr << " " << fname.toStdString() << "\n";
+        cerr << "  appending " << fname.toStdString() << "\n";
         QFile fp( fname);
         if( ! fp.open( QFile::ReadOnly))
             throw QString( "Could not open file for reading: %1").arg( fname);
@@ -890,45 +902,29 @@ void combineFITS( const QStringList & inputFilenames, const QString & outputFile
             // statistics
             processed += nRead;
             if( timer2.elapsed() > 1000) {
-                cerr << "  * speed: " << (processed / 1024 / 1024) / (timer.elapsed() / 1000.0)
+                cerr << "    speed: " << (processed / 1024 / 1024) / (timer.elapsed() / 1000.0)
                      << " MB/s ";
-                cerr << "processed: " << formatBytes(processed).toStdString() << " ("
+                cerr << "wrote: " << formatBytes(ofp.pos()).toStdString() << "("
                      << (qint64)((processed * 100.0) / totalBytes) << "%) ";
                 cerr << "elapsed: " << formatSeconds( timer.elapsed() / 1000.0).toStdString() << " ";
                 double eta = (totalBytes - processed) * timer.elapsed() / processed / 1000;
-                cerr << "eta: " << formatSeconds( eta).toStdString() << " *\n";
+                cerr << "eta: " << formatSeconds( eta).toStdString() << "\n";
                 timer2.restart();
             }
         }
     }
 
-    /*
-
-    // extract the frame - this is actually totally unnecessary, but w/e :)
-    M3DBitpixFile src(fits, & f, offset, fits.naxis1, fits.naxis2, fits.naxis3);
-    M2D<double> frameData( fits.naxis1, fits.naxis2 );
-    double min = src(0,0,frame);
-    double max = min;
-    bool first = true;
-    qint64 nanCount = 0;
-    for( int sy = 0 ; sy < fits.naxis2 ; sy ++ ) {
-        for( int sx = 0 ; sx < fits.naxis1 ; sx ++ ) {
-            double v = src(sx, sy, frame);
-            frameData(sx,sy) = v;
-            if( ! isfinite(v)) {
-                nanCount ++;
-                continue;
-            }
-            if( first) {
-                min = max = v; first = false;
-            } else {
-                min = std::min( min, v);
-                max = std::max( max, v);
-            }
+    int pad = 2880 - ofp.pos() % 2880;
+    if( pad > 0) {
+        cerr << "Padding with " << pad << " bytes.\n";
+        std::vector<char> buff(pad,0);
+        if( ! blockWrite( ofp, buff.data(), pad)) {
+            throw QString("Could not pad the output file.");
         }
     }
-    cout << "min/max = " << min << " " << max << "\n";
-    cout << "nanCount = " << nanCount << " (" << (100.0 * nanCount) / fits.naxis1 / fits.naxis2 << "%)\n";
-*/
-
+    else {
+        cerr << "No padding needed.\n";
+    }
+    ofp.close();
+    cerr << "Done.\n";
 }
