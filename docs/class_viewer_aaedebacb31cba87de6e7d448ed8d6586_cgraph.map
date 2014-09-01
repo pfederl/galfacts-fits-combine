@@ -1,0 +1,7 @@
+<map id="Viewer::Viewer" name="Viewer::Viewer">
+<area shape="rect" id="node3" href="$class_globals.html#aab0585cd9ec9ccefe8d48f3fe2fb6a19" title="singleton pattern " alt="" coords="408,5,531,35"/>
+<area shape="rect" id="node7" href="$class_globals.html#ae2dc4772994f76c3200ffb7b9ec3006a" title="Globals::cmdLineInfo" alt="" coords="191,31,335,60"/>
+<area shape="rect" id="node9" href="$class_viewer.html#a8669e53611f1d57441d771de7d8f7990" title="internal callback for scripted commands " alt="" coords="165,84,360,113"/>
+<area shape="rect" id="node5" href="$class_globals.html#a3b78cfdbe2809ad8b6b722969dda4425" title="Globals::Globals" alt="" coords="580,5,697,35"/>
+<area shape="rect" id="node12" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="423,84,516,113"/>
+</map>

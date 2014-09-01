@@ -1,0 +1,4 @@
+<map id="IConnector" name="IConnector">
+<area shape="rect" id="node3" href="$class_desktop_connector.html" title="private info we keep with each view unfortunately it needs to live as it&#39;s own class because we need ..." alt="" coords="5,83,136,112"/>
+<area shape="rect" id="node5" href="$class_server_connector.html" title="ServerConnector" alt="" coords="160,83,280,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Slice1D::positiveCase" name="Slice1D::positiveCase">
+<area shape="rect" id="node3" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="205,5,312,35"/>
+<area shape="rect" id="node5" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="212,59,305,88"/>
+<area shape="rect" id="node7" href="$class_slice1_d.html#ad2126e886674a76d2ea88517237f06c0" title="set stop (the index past the last element to be extracted) " alt="" coords="211,112,307,141"/>
+</map>

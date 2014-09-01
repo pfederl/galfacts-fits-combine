@@ -1,0 +1,4 @@
+<map id="TestView" name="TestView">
+<area shape="rect" id="node2" href="$class_i_view.html" title="The IView interface defines all functionality that a server side view has to implement to create an o..." alt="" coords="5,5,59,35"/>
+<area shape="rect" id="node4" href="$class_i_connector.html" title="The IConnector interface offers common API that the C++ code uses to communicate with the JavaScript ..." alt="" coords="83,5,168,35"/>
+</map>

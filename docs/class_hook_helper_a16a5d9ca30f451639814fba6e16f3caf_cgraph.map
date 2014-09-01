@@ -1,0 +1,3 @@
+<map id="HookHelper::executeAll" name="HookHelper::executeAll">
+<area shape="rect" id="node3" href="$class_hook_helper.html#a0a2437f8870ab7fcffd9f681f62c1cc9" title="call all plugins and execute func with the result of the plugin&#39;s hook (if the plugin answered) the r..." alt="" coords="215,5,388,35"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Globals" name="Globals">
+<area shape="rect" id="node2" href="$class_i_platform.html" title="The IPlatform class. " alt="" coords="5,5,80,35"/>
+<area shape="rect" id="node4" href="$class_main_config_1_1_parsed_info.html" title="The ParsedInfo contains parsed data from the main configuration file. " alt="" coords="104,5,261,35"/>
+<area shape="rect" id="node7" href="$class_i_connector.html" title="The IConnector interface offers common API that the C++ code uses to communicate with the JavaScript ..." alt="" coords="285,5,371,35"/>
+<area shape="rect" id="node9" href="$class_cmd_line_1_1_parsed_info.html" title="CmdLine::ParsedInfo" alt="" coords="395,5,539,35"/>
+<area shape="rect" id="node11" href="$class_plugin_manager.html" title="PluginManager" alt="" coords="563,5,669,35"/>
+</map>

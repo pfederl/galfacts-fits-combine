@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_connector.html" title="The IConnector interface offers common API that the C++ code uses to communicate with the JavaScript ..." alt="" coords="35,139,120,168"/>
+<area shape="rect" id="node3" href="$class_desktop_connector.html" title="private info we keep with each view unfortunately it needs to live as it&#39;s own class because we need ..." alt="" coords="220,165,351,195"/>
+<area shape="rect" id="node5" href="$class_server_connector.html" title="ServerConnector" alt="" coords="225,112,345,141"/>
+<area shape="rect" id="node6" href="$class_i_platform.html" title="The IPlatform class. " alt="" coords="40,32,115,61"/>
+<area shape="rect" id="node8" href="$class_desktop_platform.html" title="DesktopPlatform" alt="" coords="225,59,345,88"/>
+<area shape="rect" id="node10" href="$class_server_platform.html" title="ServerPlatform" alt="" coords="231,5,340,35"/>
+<area shape="rect" id="node11" href="$class_i_plugin.html" title="plugin interface Every plugin must implement this interface " alt="" coords="47,352,108,381"/>
+<area shape="rect" id="node13" href="$class_casa_test1.html" title="This plugin can read image formats that casacore supports. " alt="" coords="243,272,328,301"/>
+<area shape="rect" id="node15" href="$class_clock1_plugin.html" title="Clock1Plugin" alt="" coords="236,325,335,355"/>
+<area shape="rect" id="node17" href="$class_generic_plugin.html" title="GenericPlugin" alt="" coords="235,379,336,408"/>
+<area shape="rect" id="node19" href="$class_py_cpp_plug.html" title="this is a plugin returned as a result of the hook call when loading a pythong plugin ..." alt="" coords="241,432,329,461"/>
+<area shape="rect" id="node21" href="$class_python273_plugin.html" title="This plugin can read image formats that casacore supports. " alt="" coords="225,485,345,515"/>
+<area shape="rect" id="node23" href="$class_q_image_plugin.html" title="This plugin can read image formats that casacore supports. " alt="" coords="233,219,337,248"/>
+<area shape="rect" id="node26" href="$class_qt_message_tickler.html" title="QtMessageTickler" alt="" coords="221,805,349,835"/>
+<area shape="rect" id="node31" href="$class_base_hook.html" title="base hook event Currently the purpose of this base class is to implement IDs TODO: does this need inh..." alt="" coords="244,699,327,728"/>
+<area shape="rect" id="node43" href="$class_defer_helper2.html" title="Internal class to implement defer() " alt="" coords="236,752,335,781"/>
+<area shape="rect" id="node48" href="$class_image_1_1_image_interface.html" title="Main interface class for representing an image inside the viewer. " alt="" coords="209,539,361,568"/>
+<area shape="rect" id="node54" href="$class_scripted_command_listener.html" title="ScriptedCommandListener" alt="" coords="197,592,373,621"/>
+<area shape="rect" id="node57" href="$class_viewer.html" title="Viewer" alt="" coords="255,645,316,675"/>
+<area shape="rect" id="node33" href="$class_initialize.html" title="initialize hook is called once at the beginning of the application " alt="" coords="431,619,500,648"/>
+<area shape="rect" id="node35" href="$class_load_image.html" title="load image and convert it to QImage " alt="" coords="423,672,508,701"/>
+<area shape="rect" id="node37" href="$class_load_plugin.html" title="load a plugin of unknown type " alt="" coords="423,725,508,755"/>
+<area shape="rect" id="node39" href="$class_pre_render.html" title="just before rendering a view, plugins are given a chance to modify the rendered image ..." alt="" coords="424,779,507,808"/>
+</map>

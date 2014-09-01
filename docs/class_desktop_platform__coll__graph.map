@@ -1,0 +1,6 @@
+<map id="DesktopPlatform" name="DesktopPlatform">
+<area shape="rect" id="node6" href="$class_desktop_connector.html" title="private info we keep with each view unfortunately it needs to live as it&#39;s own class because we need ..." alt="" coords="76,85,207,115"/>
+<area shape="rect" id="node4" href="$class_i_platform.html" title="The IPlatform class. " alt="" coords="231,85,305,115"/>
+<area shape="rect" id="node9" href="$class_i_connector.html" title="The IConnector interface offers common API that the C++ code uses to communicate with the JavaScript ..." alt="" coords="99,5,184,35"/>
+<area shape="rect" id="node11" href="$class_main_window.html" title="MainWindow" alt="" coords="329,85,425,115"/>
+</map>

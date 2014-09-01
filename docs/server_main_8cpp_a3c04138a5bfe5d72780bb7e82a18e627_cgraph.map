@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node3" href="$class_globals.html#aab0585cd9ec9ccefe8d48f3fe2fb6a19" title="singleton pattern " alt="" coords="292,213,415,243"/>
+<area shape="rect" id="node7" href="$namespace_cmd_line.html#a3909c3de8a58313516e45880d14183d0" title="parse the command line, which is extracted from QCoreApplication::arguments() if error occurred..." alt="" coords="111,89,225,119"/>
+<area shape="rect" id="node15" href="$namespace_main_config.html#a154d930d809d344f2f4b89ca894fbefc" title="parse the given config file " alt="" coords="104,207,232,236"/>
+<area shape="rect" id="node17" href="$class_viewer.html#a81db42a75d1c11ea0da88c76c83aa7e2" title="called by skeleton when connector is already initialized (i.e. " alt="" coords="120,260,216,289"/>
+<area shape="rect" id="node5" href="$class_globals.html#a3b78cfdbe2809ad8b6b722969dda4425" title="Globals::Globals" alt="" coords="476,213,593,243"/>
+<area shape="rect" id="node9" href="$class_cmd_line_1_1_parsed_info.html#a191bb5b972280820cc84ec23bf12665e" title="returns the path to the configuaration file set either through &#39;–cfg file&#39; option or $CARTAVIS_CONFI..." alt="" coords="281,143,425,190"/>
+<area shape="rect" id="node11" href="$class_cmd_line_1_1_parsed_info.html#aa288bb94840d54cedccb750a2880f505" title="returns the path to the html file, only used by the desktop version set by &#39;–html path&#39; option ..." alt="" coords="281,5,425,51"/>
+<area shape="rect" id="node13" href="$class_cmd_line_1_1_parsed_info.html#a9211d8108124614320fa792aaf66669d" title="return the port number on which to listen for commands &#45;1 indicates no port was specified ..." alt="" coords="281,74,425,121"/>
+<area shape="rect" id="node20" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="307,267,400,296"/>
+</map>

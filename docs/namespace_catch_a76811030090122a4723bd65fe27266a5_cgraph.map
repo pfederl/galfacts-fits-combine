@@ -1,0 +1,9 @@
+<map id="Catch::expressionResultBuilderFromMatcher" name="Catch::expressionResultBuilderFromMatcher">
+<area shape="rect" id="node3" href="$namespace_catch.html#aa87df9e8c7db7b7f48a19a637c6b1b3e" title="Catch::expressionResultBuilder\lFromMatcher" alt="" coords="263,47,468,94"/>
+<area shape="rect" id="node9" href="$class_catch_1_1_expression_result_builder.html#a6b823ff8af8c2601fc605a1417cc9bf3" title="Catch::ExpressionResultBuilder\l::setLhs" alt="" coords="261,117,469,163"/>
+<area shape="rect" id="node11" href="$namespace_catch.html#a386cb19a84b12339486771ad143a95ae" title="converts any type to a string " alt="" coords="311,187,420,216"/>
+<area shape="rect" id="node15" href="$class_catch_1_1_expression_result_builder.html#ac6e748b2aaf7a13945dffc363123975b" title="Catch::ExpressionResultBuilder\l::setResultType" alt="" coords="261,239,469,286"/>
+<area shape="rect" id="node5" href="$class_catch_1_1_expression_result_builder.html#a02d809bdc1f5b1bd02134ca3a7e16d19" title="Catch::ExpressionResultBuilder\l::setRhs" alt="" coords="521,5,729,51"/>
+<area shape="rect" id="node7" href="$class_catch_1_1_expression_result_builder.html#ab935419ef69e035c9a9917e0c141f12b" title="Catch::ExpressionResultBuilder\l::setOp" alt="" coords="521,74,729,121"/>
+<area shape="rect" id="node13" href="$struct_catch_1_1_detail_1_1_string_maker_base.html#a8eb9f635dc413a5758e22614bafaf1a3" title="Catch::Detail::StringMaker\lBase\&lt; Detail::IsStreamInsertable\l\&lt; T \&gt;::value \&gt;::convert" alt="" coords="517,169,733,233"/>
+</map>

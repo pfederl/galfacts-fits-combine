@@ -1,0 +1,14 @@
+<map id="Nullable::val" name="Nullable::val">
+<area shape="rect" id="node3" href="$class_plugin_manager.html#a685e9abd87edf1e34fd8a29258cf19e0" title="find and load plugins from the specified directories " alt="" coords="156,5,337,35"/>
+<area shape="rect" id="node5" href="$class_slice1_d.html#a661b94d51ce8372c72fe20f413fd6fe2" title="return starting index, count and step for the given input size n " alt="" coords="395,31,501,60"/>
+<area shape="rect" id="node9" href="$class_slice1_d.html#ae340c72af44abc9ea10716bd88784ccd" title="this is adaptation of cpython&#39;s PySlice_GetIndicesEx() https://docs.python.org/2/c&#45;api/slice.html " alt="" coords="169,163,324,192"/>
+<area shape="rect" id="node16" href="$class_slice1_d.html#ae819055a67b82f15e8be61603f9087f2" title="formats the slice into a string mainly useful for debugging " alt="" coords="396,241,500,271"/>
+<area shape="rect" id="node19" href="$class_slice1_d.html#a757713451ba9a00724927d44769575f6" title="positive step case calculation " alt="" coords="171,109,323,139"/>
+<area shape="rect" id="node22" href="$class_viewer.html#a81db42a75d1c11ea0da88c76c83aa7e2" title="called by skeleton when connector is already initialized (i.e. " alt="" coords="199,267,295,296"/>
+<area shape="rect" id="node26" href="$class_viewer.html#a8669e53611f1d57441d771de7d8f7990" title="internal callback for scripted commands " alt="" coords="149,321,344,351"/>
+<area shape="rect" id="node7" href="$_slice_tester_8cpp.html#a1d07e5eb11460d618e1b17e29d8baa1b" title="TEST_CASE" alt="" coords="553,83,652,112"/>
+<area shape="rect" id="node11" href="$struct_tester.html#a9dddc60b4882130e392944262cca160b" title="Tester::run" alt="" coords="405,135,491,164"/>
+<area shape="rect" id="node14" href="$struct_tester_n_d.html#a461b31ebc9e86ae20fec50ddcd1c2328" title="TesterND::run" alt="" coords="396,188,500,217"/>
+<area shape="rect" id="node24" href="$desktop_main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="423,295,473,324"/>
+<area shape="rect" id="node28" href="$class_viewer.html#aaedebacb31cba87de6e7d448ed8d6586" title="constructor &#45; does not need to do anything it gets called/constructed by skeleton when connector is n..." alt="" coords="393,348,503,377"/>
+</map>

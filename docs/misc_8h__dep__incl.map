@@ -1,0 +1,17 @@
+<map id="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/misc.h" name="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/misc.h">
+<area shape="rect" id="node3" href="$_coordinate_formatter_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/CoordinateFormatter.h" alt="" coords="101,117,312,181"/>
+<area shape="rect" id="node7" href="$_i_image_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/IImage.h" alt="" coords="507,229,672,293"/>
+<area shape="rect" id="node13" href="$_coordinate_grid_plotter_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/CoordinateGridPlotter.h" alt="" coords="336,117,552,181"/>
+<area shape="rect" id="node19" href="$_slice_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/Slice.h" alt="" coords="627,117,792,181"/>
+<area shape="rect" id="node25" href="$_plot_label_generator_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/PlotLabelGenerator.h" alt="" coords="816,117,1019,181"/>
+<area shape="rect" id="node30" href="$_viewer_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/Viewer.cpp" alt="" coords="1043,117,1208,181"/>
+<area shape="rect" id="node32" href="$_desktop_connector_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/desktop/DesktopConnector.cpp" alt="" coords="1232,117,1443,181"/>
+<area shape="rect" id="node34" href="$_main_window_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/desktop/MainWindow.cpp" alt="" coords="1467,117,1643,181"/>
+<area shape="rect" id="node36" href="$_server_connector_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/server/ServerConnector.cpp" alt="" coords="1667,117,1856,181"/>
+<area shape="rect" id="node5" href="$_coordinate_formatter_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/CoordinateFormatter.cpp" alt="" coords="5,229,229,293"/>
+<area shape="rect" id="node9" href="$_i_image_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/IImage.cpp" alt="" coords="437,341,603,405"/>
+<area shape="rect" id="node11" href="$_slice_tester_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/Tests/SliceTester.cpp" alt="" coords="627,341,792,405"/>
+<area shape="rect" id="node15" href="$_coordinate_grid_plotter_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/CoordinateGridPlotter.cpp" alt="" coords="253,229,483,293"/>
+<area shape="rect" id="node22" href="$_slice_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/Slice.cpp" alt="" coords="747,229,912,293"/>
+<area shape="rect" id="node28" href="$_plot_label_generator_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/PlotLabelGenerator.cpp" alt="" coords="936,229,1152,293"/>
+</map>

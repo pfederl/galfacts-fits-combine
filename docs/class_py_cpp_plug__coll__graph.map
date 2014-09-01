@@ -1,0 +1,5 @@
+<map id="PyCppPlug" name="PyCppPlug">
+<area shape="rect" id="node4" href="$class_i_plugin.html" title="plugin interface Every plugin must implement this interface " alt="" coords="99,101,160,131"/>
+<area shape="rect" id="node6" href="$struct_load_plugin_1_1_params.html" title="LoadPlugin::Params" alt="" coords="184,101,323,131"/>
+<area shape="rect" id="node8" href="$struct_plugin_json.html" title="parsed plugin.json information " alt="" coords="211,5,296,35"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ServerConnector::registerView" name="ServerConnector::registerView">
+<area shape="rect" id="node3" href="$class_i_view.html#a9b57cb7feb3d7f2c26502eb9b1ac4239" title="get the name of the view " alt="" coords="271,5,364,35"/>
+<area shape="rect" id="node5" href="$class_i_view.html#ad2b76f2502f7f49e0eb1fef509cde94b" title="accept a connector during registration called once during IConnector::registerView() store the value ..." alt="" coords="255,59,380,88"/>
+</map>

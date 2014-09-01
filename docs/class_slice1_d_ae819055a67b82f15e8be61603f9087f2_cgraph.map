@@ -1,0 +1,5 @@
+<map id="Slice1D::toStr" name="Slice1D::toStr">
+<area shape="rect" id="node3" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="181,5,288,35"/>
+<area shape="rect" id="node5" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="188,59,281,88"/>
+<area shape="rect" id="node7" href="$class_slice1_d.html#a86d0642412b721a0b094b2bee1dee82d" title="return true if this slice represents single index slice this is the only difference between [i:i+1] a..." alt="" coords="157,112,312,141"/>
+</map>

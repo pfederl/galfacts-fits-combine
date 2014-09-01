@@ -1,0 +1,10 @@
+<map id="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/IImage.h" name="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/IImage.h">
+<area shape="rect" id="node3" href="$_pixel_type_8h.html" title="PixelType.h" alt="" coords="8,117,99,147"/>
+<area shape="rect" id="node9" href="$_nullable_8h.html" title="Nullable.h" alt="" coords="219,195,299,224"/>
+<area shape="rect" id="node15" href="$misc_8h.html" title="misc.h" alt="" coords="484,195,545,224"/>
+<area shape="rect" id="node19" href="$_slice_8h.html" title="Slice.h" alt="" coords="173,117,235,147"/>
+<area shape="rect" id="node24" href="$_coordinate_formatter_8h.html" title="CoordinateFormatter.h" alt="" coords="709,117,861,147"/>
+<area shape="rect" id="node34" href="$_coordinate_grid_plotter_8h.html" title="CoordinateGridPlotter.h" alt="" coords="309,117,467,147"/>
+<area shape="rect" id="node37" href="$_plot_label_generator_8h.html" title="PlotLabelGenerator.h" alt="" coords="541,117,685,147"/>
+<area shape="rect" id="node27" href="$_axis_info_8h.html" title="AxisInfo.h" alt="" coords="832,195,912,224"/>
+</map>

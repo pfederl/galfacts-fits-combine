@@ -1,0 +1,8 @@
+<map id="Slice1D::isSingleIndex" name="Slice1D::isSingleIndex">
+<area shape="rect" id="node3" href="$class_slice1_d.html#a661b94d51ce8372c72fe20f413fd6fe2" title="return starting index, count and step for the given input size n " alt="" coords="232,5,339,35"/>
+<area shape="rect" id="node7" href="$class_slice1_d.html#ae340c72af44abc9ea10716bd88784ccd" title="this is adaptation of cpython&#39;s PySlice_GetIndicesEx() https://docs.python.org/2/c&#45;api/slice.html " alt="" coords="208,112,363,141"/>
+<area shape="rect" id="node14" href="$class_slice1_d.html#ae819055a67b82f15e8be61603f9087f2" title="formats the slice into a string mainly useful for debugging " alt="" coords="233,59,337,88"/>
+<area shape="rect" id="node5" href="$_slice_tester_8cpp.html#a1d07e5eb11460d618e1b17e29d8baa1b" title="TEST_CASE" alt="" coords="415,59,513,88"/>
+<area shape="rect" id="node9" href="$struct_tester.html#a9dddc60b4882130e392944262cca160b" title="Tester::run" alt="" coords="421,112,507,141"/>
+<area shape="rect" id="node12" href="$struct_tester_n_d.html#a461b31ebc9e86ae20fec50ddcd1c2328" title="TesterND::run" alt="" coords="412,165,516,195"/>
+</map>

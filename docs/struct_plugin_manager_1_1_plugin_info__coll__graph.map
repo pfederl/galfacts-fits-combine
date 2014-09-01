@@ -1,0 +1,4 @@
+<map id="PluginManager::PluginInfo" name="PluginManager::PluginInfo">
+<area shape="rect" id="node2" href="$struct_plugin_json.html" title="parsed plugin.json information " alt="" coords="5,5,91,35"/>
+<area shape="rect" id="node4" href="$class_i_plugin.html" title="plugin interface Every plugin must implement this interface " alt="" coords="115,5,176,35"/>
+</map>

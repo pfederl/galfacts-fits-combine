@@ -1,0 +1,6 @@
+<map id="DesktopConnector::findViewInfo" name="DesktopConnector::findViewInfo">
+<area shape="rect" id="node3" href="$class_desktop_connector.html#af07300041068d2361e6f0c6bed6f83d4" title="asks the connector to schedule a redraw of the view " alt="" coords="264,5,472,35"/>
+<area shape="rect" id="node5" href="$class_desktop_connector.html#aba02847fa177b107b9376530d078695f" title="DesktopConnector::jsUpdate\lViewSlot" alt="" coords="521,23,711,70"/>
+<area shape="rect" id="node7" href="$class_desktop_connector.html#ae9b8f1d85478d8f5c345523bfa8bced1" title="DesktopConnector::refresh\lViewNow" alt="" coords="279,109,457,155"/>
+<area shape="rect" id="node10" href="$class_desktop_connector.html#a057dc9559cbb5f0a69de0e339f385b95" title="DesktopConnector::jsMouse\lMoveSlot" alt="" coords="275,178,461,225"/>
+</map>

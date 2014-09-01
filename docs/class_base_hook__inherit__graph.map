@@ -1,0 +1,6 @@
+<map id="BaseHook" name="BaseHook">
+<area shape="rect" id="node5" href="$class_initialize.html" title="initialize hook is called once at the beginning of the application " alt="" coords="5,160,75,189"/>
+<area shape="rect" id="node7" href="$class_load_image.html" title="load image and convert it to QImage " alt="" coords="99,160,184,189"/>
+<area shape="rect" id="node9" href="$class_load_plugin.html" title="load a plugin of unknown type " alt="" coords="208,160,293,189"/>
+<area shape="rect" id="node11" href="$class_pre_render.html" title="just before rendering a view, plugins are given a chance to modify the rendered image ..." alt="" coords="317,160,400,189"/>
+</map>

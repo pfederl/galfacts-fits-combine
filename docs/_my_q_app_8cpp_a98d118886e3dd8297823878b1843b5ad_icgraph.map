@@ -1,0 +1,5 @@
+<map id="defer" name="defer">
+<area shape="rect" id="node3" href="$class_server_connector.html#a0f293f282f58c376762fb44fb2be10bb" title="initialize connector establish connection to the client, parse url arguments " alt="" coords="108,5,281,35"/>
+<area shape="rect" id="node5" href="$class_server_connector.html#a1e44d871ad602fcccde726591129fd83" title="ServerConnector::pureWeb\lValueChangedCB" alt="" coords="105,58,284,105"/>
+<area shape="rect" id="node7" href="$class_server_connector.html#af2c72bbb7d44097ee8dbbc601c8a0f16" title="add a state callback " alt="" coords="335,58,513,105"/>
+</map>

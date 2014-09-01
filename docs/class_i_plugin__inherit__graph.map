@@ -1,0 +1,8 @@
+<map id="IPlugin" name="IPlugin">
+<area shape="rect" id="node3" href="$class_casa_test1.html" title="This plugin can read image formats that casacore supports. " alt="" coords="5,83,91,112"/>
+<area shape="rect" id="node5" href="$class_clock1_plugin.html" title="Clock1Plugin" alt="" coords="115,83,213,112"/>
+<area shape="rect" id="node7" href="$class_generic_plugin.html" title="GenericPlugin" alt="" coords="237,83,339,112"/>
+<area shape="rect" id="node9" href="$class_py_cpp_plug.html" title="this is a plugin returned as a result of the hook call when loading a pythong plugin ..." alt="" coords="363,83,451,112"/>
+<area shape="rect" id="node11" href="$class_python273_plugin.html" title="This plugin can read image formats that casacore supports. " alt="" coords="475,83,595,112"/>
+<area shape="rect" id="node13" href="$class_q_image_plugin.html" title="This plugin can read image formats that casacore supports. " alt="" coords="619,83,723,112"/>
+</map>

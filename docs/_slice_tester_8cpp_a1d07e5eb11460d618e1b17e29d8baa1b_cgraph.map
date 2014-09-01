@@ -1,0 +1,13 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="node3" href="$class_slice1_d.html#a9b26f5cf03dffd3da6c99a73ce3ed62a" title="set start (index of first element to be extracted) " alt="" coords="157,29,259,59"/>
+<area shape="rect" id="node5" href="$class_slice1_d.html#ad2126e886674a76d2ea88517237f06c0" title="set stop (the index past the last element to be extracted) " alt="" coords="541,280,637,309"/>
+<area shape="rect" id="node7" href="$class_slice1_d.html#ae904b62aa0945ca32258469944fa291f" title="set step value " alt="" coords="157,364,259,393"/>
+<area shape="rect" id="node9" href="$class_slice1_d.html#ae340c72af44abc9ea10716bd88784ccd" title="this is adaptation of cpython&#39;s PySlice_GetIndicesEx() https://docs.python.org/2/c&#45;api/slice.html " alt="" coords="309,52,464,81"/>
+<area shape="rect" id="node19" href="$class_slice1_d.html#a661b94d51ce8372c72fe20f413fd6fe2" title="return starting index, count and step for the given input size n " alt="" coords="155,184,261,213"/>
+<area shape="rect" id="node29" href="$class_slice1_d.html#ae819055a67b82f15e8be61603f9087f2" title="formats the slice into a string mainly useful for debugging " alt="" coords="335,105,439,135"/>
+<area shape="rect" id="node11" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="536,124,643,153"/>
+<area shape="rect" id="node13" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="543,203,636,232"/>
+<area shape="rect" id="node15" href="$class_slice1_d.html#a86d0642412b721a0b094b2bee1dee82d" title="return true if this slice represents single index slice this is the only difference between [i:i+1] a..." alt="" coords="512,59,667,88"/>
+<area shape="rect" id="node17" href="$class_nullable.html#a5fcc2441f5f792c7606ca543c5ffbea6" title="returns true if the instance holds no value " alt="" coords="535,5,644,35"/>
+<area shape="rect" id="node24" href="$class_slice1_d.html#a757713451ba9a00724927d44769575f6" title="positive step case calculation " alt="" coords="311,209,463,239"/>
+</map>

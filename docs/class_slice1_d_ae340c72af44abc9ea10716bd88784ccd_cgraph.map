@@ -1,0 +1,6 @@
+<map id="Slice1D::cpythonApply" name="Slice1D::cpythonApply">
+<area shape="rect" id="node3" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="232,5,339,35"/>
+<area shape="rect" id="node5" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="239,59,332,88"/>
+<area shape="rect" id="node7" href="$class_slice1_d.html#a86d0642412b721a0b094b2bee1dee82d" title="return true if this slice represents single index slice this is the only difference between [i:i+1] a..." alt="" coords="208,112,363,141"/>
+<area shape="rect" id="node9" href="$class_nullable.html#a5fcc2441f5f792c7606ca543c5ffbea6" title="returns true if the instance holds no value " alt="" coords="231,165,340,195"/>
+</map>

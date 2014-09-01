@@ -1,0 +1,5 @@
+<map id="HookHelper::forEachCond" name="HookHelper::forEachCond">
+<area shape="rect" id="node3" href="$class_hook_helper.html#a66082c6bf534940f37a9868906ee16e6" title="as above, but all plugins are processed " alt="" coords="237,5,381,35"/>
+<area shape="rect" id="node5" href="$class_hook_helper.html#a16a5d9ca30f451639814fba6e16f3caf" title="execute all plugins and ignore results " alt="" coords="229,59,389,88"/>
+<area shape="rect" id="node7" href="$class_hook_helper.html#ab4be158f3916a92104315ce7e386caa6" title="execute all plugins and return an array of results (for every plugin that answered) ..." alt="" coords="249,112,369,141"/>
+</map>

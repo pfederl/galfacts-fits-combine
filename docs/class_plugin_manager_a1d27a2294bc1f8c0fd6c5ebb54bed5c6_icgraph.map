@@ -1,0 +1,4 @@
+<map id="PluginManager::parsePluginDir" name="PluginManager::parsePluginDir">
+<area shape="rect" id="node3" href="$class_plugin_manager.html#a12cab0e984190dc70ae448ebff2786ec" title="find all plugins in the provided search paths and parse their cooresponding .json files ..." alt="" coords="256,5,451,35"/>
+<area shape="rect" id="node5" href="$class_plugin_manager.html#a685e9abd87edf1e34fd8a29258cf19e0" title="find and load plugins from the specified directories " alt="" coords="500,5,681,35"/>
+</map>

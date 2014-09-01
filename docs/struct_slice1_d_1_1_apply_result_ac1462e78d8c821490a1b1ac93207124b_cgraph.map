@@ -1,0 +1,4 @@
+<map id="Slice1D::ApplyResult::toStr" name="Slice1D::ApplyResult::toStr">
+<area shape="rect" id="node3" href="$class_slice1_d.html#a9b26f5cf03dffd3da6c99a73ce3ed62a" title="set start (index of first element to be extracted) " alt="" coords="201,5,303,35"/>
+<area shape="rect" id="node5" href="$class_slice1_d.html#ae904b62aa0945ca32258469944fa291f" title="set step value " alt="" coords="201,59,303,88"/>
+</map>

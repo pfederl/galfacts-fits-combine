@@ -1,0 +1,23 @@
+<map id="Catch::NonCopyable" name="Catch::NonCopyable">
+<area shape="rect" id="node3" href="$struct_catch_1_1_i_shared.html" title="Catch::IShared" alt="" coords="199,59,308,88"/>
+<area shape="rect" id="node5" href="$struct_catch_1_1_i_config.html" title="Catch::IConfig" alt="" coords="373,5,480,35"/>
+<area shape="rect" id="node7" href="$struct_catch_1_1_i_test_case.html" title="Catch::ITestCase" alt="" coords="364,59,489,88"/>
+<area shape="rect" id="node13" href="$struct_catch_1_1_shared_impl.html" title="Catch::SharedImpl\&lt;\l IShared \&gt;" alt="" coords="357,130,496,177"/>
+<area shape="rect" id="node9" href="$struct_catch_1_1_shared_impl.html" title="Catch::SharedImpl\&lt;\l ITestCase \&gt;" alt="" coords="563,30,701,77"/>
+<area shape="rect" id="node11" href="$class_catch_1_1_method_test_case.html" title="Catch::MethodTestCase\&lt; C \&gt;" alt="" coords="776,8,973,37"/>
+<area shape="rect" id="node15" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher.html" title="Catch::Matchers::Impl\l::Matcher\&lt; ExpressionT \&gt;" alt="" coords="545,130,719,177"/>
+<area shape="rect" id="node27" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher.html" title="Catch::Matchers::Impl\l::Matcher\&lt; std::string \&gt;" alt="" coords="553,366,711,413"/>
+<area shape="rect" id="node17" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="Catch::Matchers::Impl\l::MatcherImpl\&lt; ExpressionT \&gt;" alt="" coords="776,61,973,107"/>
+<area shape="rect" id="node19" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="MatcherImpl\&lt; AllOf\l\&lt; ExpressionT \&gt;, ExpressionT \&gt;" alt="" coords="769,130,980,177"/>
+<area shape="rect" id="node23" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="MatcherImpl\&lt; AnyOf\l\&lt; ExpressionT \&gt;, ExpressionT \&gt;" alt="" coords="769,199,980,246"/>
+<area shape="rect" id="node21" href="$class_catch_1_1_matchers_1_1_impl_1_1_generic_1_1_all_of.html" title="Catch::Matchers::Impl\l::Generic::AllOf\&lt; ExpressionT \&gt;" alt="" coords="1035,130,1243,177"/>
+<area shape="rect" id="node25" href="$class_catch_1_1_matchers_1_1_impl_1_1_generic_1_1_any_of.html" title="Catch::Matchers::Impl\l::Generic::AnyOf\&lt; ExpressionT \&gt;" alt="" coords="1031,199,1247,246"/>
+<area shape="rect" id="node29" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="Catch::Matchers::Impl\l::MatcherImpl\&lt; Contains,\l std::string \&gt;" alt="" coords="789,269,960,333"/>
+<area shape="rect" id="node33" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="Catch::Matchers::Impl\l::MatcherImpl\&lt; EndsWith,\l std::string \&gt;" alt="" coords="788,357,961,421"/>
+<area shape="rect" id="node37" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="Catch::Matchers::Impl\l::MatcherImpl\&lt; Equals,\l std::string \&gt;" alt="" coords="796,445,953,509"/>
+<area shape="rect" id="node41" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="Catch::Matchers::Impl\l::MatcherImpl\&lt; StartsWith,\l std::string \&gt;" alt="" coords="785,533,964,597"/>
+<area shape="rect" id="node31" href="$struct_catch_1_1_matchers_1_1_impl_1_1_std_string_1_1_contains.html" title="Catch::Matchers::Impl\l::StdString::Contains" alt="" coords="1063,278,1215,325"/>
+<area shape="rect" id="node35" href="$struct_catch_1_1_matchers_1_1_impl_1_1_std_string_1_1_ends_with.html" title="Catch::Matchers::Impl\l::StdString::EndsWith" alt="" coords="1063,366,1215,413"/>
+<area shape="rect" id="node39" href="$struct_catch_1_1_matchers_1_1_impl_1_1_std_string_1_1_equals.html" title="Catch::Matchers::Impl\l::StdString::Equals" alt="" coords="1063,454,1215,501"/>
+<area shape="rect" id="node43" href="$struct_catch_1_1_matchers_1_1_impl_1_1_std_string_1_1_starts_with.html" title="Catch::Matchers::Impl\l::StdString::StartsWith" alt="" coords="1061,542,1216,589"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="PluginManager::loadPlugins" name="PluginManager::loadPlugins">
+<area shape="rect" id="node3" href="$class_plugin_manager.html#a12cab0e984190dc70ae448ebff2786ec" title="find all plugins in the provided search paths and parse their cooresponding .json files ..." alt="" coords="237,5,432,35"/>
+<area shape="rect" id="node7" href="$class_plugin_manager.html#ae404175fa307aceff78026c41d329e31" title="attempt to load a native plugin " alt="" coords="245,58,424,105"/>
+<area shape="rect" id="node9" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="281,128,388,157"/>
+<area shape="rect" id="node11" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="288,181,381,211"/>
+<area shape="rect" id="node13" href="$class_i_plugin.html#ac634c63c99c596785168d2f4e7009eae" title="called immediately after the plugin was loaded TODO: should be pure virtual " alt="" coords="276,235,393,264"/>
+<area shape="rect" id="node5" href="$class_plugin_manager.html#a1d27a2294bc1f8c0fd6c5ebb54bed5c6" title="parse a plugin directory i.e. " alt="" coords="481,5,681,35"/>
+</map>

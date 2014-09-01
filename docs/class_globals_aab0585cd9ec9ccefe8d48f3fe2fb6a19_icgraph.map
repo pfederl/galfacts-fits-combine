@@ -1,0 +1,15 @@
+<map id="Globals::instance" name="Globals::instance">
+<area shape="rect" id="node3" href="$class_globals.html#a9dfefa52bc99be7f03d0b68928122bbb" title="get the platform " alt="" coords="213,5,333,35"/>
+<area shape="rect" id="node5" href="$class_globals.html#a3a7d0bdc11897dfdb726fa2e5a02c9c3" title="set the platform " alt="" coords="437,45,579,75"/>
+<area shape="rect" id="node8" href="$class_globals.html#a2a86365ff1165e67b01b2f2a9dd90cae" title="get the plugin manager " alt="" coords="195,109,352,139"/>
+<area shape="rect" id="node10" href="$class_globals.html#a9e3c68026982d575ee29485cb8690e54" title="set the plugin manager " alt="" coords="419,123,597,152"/>
+<area shape="rect" id="node13" href="$class_test_view.html#a117027404a425e5386eaad873be17e1b" title="TestView::redrawBuffer" alt="" coords="195,213,352,243"/>
+<area shape="rect" id="node17" href="$class_test_view2.html#a0b99e73751d9628c3ca8366f17838991" title="TestView2::redrawBuffer" alt="" coords="191,267,356,296"/>
+<area shape="rect" id="node21" href="$class_viewer.html#aaedebacb31cba87de6e7d448ed8d6586" title="constructor &#45; does not need to do anything it gets called/constructed by skeleton when connector is n..." alt="" coords="453,359,563,388"/>
+<area shape="rect" id="node23" href="$class_viewer.html#a81db42a75d1c11ea0da88c76c83aa7e2" title="called by skeleton when connector is already initialized (i.e. " alt="" coords="225,424,321,453"/>
+<area shape="rect" id="node25" href="$desktop_main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="483,437,533,467"/>
+<area shape="rect" id="node27" href="$class_viewer.html#a8669e53611f1d57441d771de7d8f7990" title="internal callback for scripted commands " alt="" coords="176,371,371,400"/>
+<area shape="rect" id="node31" href="$class_desktop_platform.html#aab5f2efd219437478fdfce31c5c25f6c" title="initialize the platform create a gui displaying the provided url inside the built&#45;in browser ..." alt="" coords="185,527,361,574"/>
+<area shape="rect" id="node15" href="$class_test_view.html#a37e77d7922c9ac56e915d5ff072603e9" title="handle request for getting the draw buffer that will be drawn strongly suggested format: QImage::Form..." alt="" coords="439,213,577,243"/>
+<area shape="rect" id="node19" href="$class_test_view2.html#a96e6df503df5521bb6be4d9c3edc84b2" title="handle request for getting the draw buffer that will be drawn strongly suggested format: QImage::Form..." alt="" coords="436,267,580,296"/>
+</map>

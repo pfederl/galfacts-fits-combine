@@ -1,0 +1,5 @@
+<map id="DesktopConnector::stateChangedSignal" name="DesktopConnector::stateChangedSignal">
+<area shape="rect" id="node3" href="$class_desktop_connector.html#ae8e6c2d0240fe44345ae2f14203ee5f6" title="constructor " alt="" coords="276,5,463,51"/>
+<area shape="rect" id="node5" href="$class_desktop_connector.html#aa9ff25beeb6e178f9e028122a20ccff2" title="set state to a new value " alt="" coords="276,75,463,104"/>
+<area shape="rect" id="node7" href="$class_desktop_connector.html#ac17165eabc1e82883aec73c503fa94fa" title="javascript calls this to set a state " alt="" coords="513,75,735,104"/>
+</map>

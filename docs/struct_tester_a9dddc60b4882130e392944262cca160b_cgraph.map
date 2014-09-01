@@ -1,0 +1,11 @@
+<map id="Tester::run" name="Tester::run">
+<area shape="rect" id="node3" href="$class_slice1_d.html#a68c9d6d45d62ee89796c2776010d76e8" title="set single index note we do not want chaining here, so we return void " alt="" coords="163,5,269,35"/>
+<area shape="rect" id="node5" href="$class_slice1_d.html#a9b26f5cf03dffd3da6c99a73ce3ed62a" title="set start (index of first element to be extracted) " alt="" coords="165,59,267,88"/>
+<area shape="rect" id="node7" href="$class_slice1_d.html#ad2126e886674a76d2ea88517237f06c0" title="set stop (the index past the last element to be extracted) " alt="" coords="168,112,264,141"/>
+<area shape="rect" id="node9" href="$class_slice1_d.html#ae904b62aa0945ca32258469944fa291f" title="set step value " alt="" coords="165,165,267,195"/>
+<area shape="rect" id="node11" href="$class_slice1_d.html#ae340c72af44abc9ea10716bd88784ccd" title="this is adaptation of cpython&#39;s PySlice_GetIndicesEx() https://docs.python.org/2/c&#45;api/slice.html " alt="" coords="139,219,293,248"/>
+<area shape="rect" id="node13" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="365,139,472,168"/>
+<area shape="rect" id="node15" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="372,192,465,221"/>
+<area shape="rect" id="node17" href="$class_slice1_d.html#a86d0642412b721a0b094b2bee1dee82d" title="return true if this slice represents single index slice this is the only difference between [i:i+1] a..." alt="" coords="341,245,496,275"/>
+<area shape="rect" id="node19" href="$class_nullable.html#a5fcc2441f5f792c7606ca543c5ffbea6" title="returns true if the instance holds no value " alt="" coords="364,299,473,328"/>
+</map>

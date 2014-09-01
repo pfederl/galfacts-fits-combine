@@ -1,0 +1,6 @@
+<map id="LoadPlugin" name="LoadPlugin">
+<area shape="rect" id="node2" href="$class_base_hook.html" title="base hook event Currently the purpose of this base class is to implement IDs TODO: does this need inh..." alt="" coords="5,101,88,131"/>
+<area shape="rect" id="node6" href="$class_i_plugin.html" title="plugin interface Every plugin must implement this interface " alt="" coords="112,101,173,131"/>
+<area shape="rect" id="node8" href="$struct_load_plugin_1_1_params.html" title="LoadPlugin::Params" alt="" coords="197,101,336,131"/>
+<area shape="rect" id="node10" href="$struct_plugin_json.html" title="parsed plugin.json information " alt="" coords="224,5,309,35"/>
+</map>

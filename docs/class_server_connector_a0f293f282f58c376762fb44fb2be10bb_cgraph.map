@@ -1,0 +1,6 @@
+<map id="ServerConnector::initialize" name="ServerConnector::initialize">
+<area shape="rect" id="node3" href="$_server_connector_8cpp.html#a3fe4741227ac38a6c58e09119924b050" title="OnPWStateInitialized" alt="" coords="256,5,403,35"/>
+<area shape="rect" id="node5" href="$class_server_connector.html#a8116a5e7848628ed3672d63b196c844b" title="this gets called when pureweb server is shutting down " alt="" coords="231,58,428,105"/>
+<area shape="rect" id="node7" href="$class_server_connector.html#ae50b226667f8b38289945e87dad624a7" title="internal true pureweb command listener, our command callback piggyback to this one ..." alt="" coords="244,127,415,174"/>
+<area shape="rect" id="node9" href="$_my_q_app_8cpp.html#a98d118886e3dd8297823878b1843b5ad" title="defer " alt="" coords="304,197,355,227"/>
+</map>

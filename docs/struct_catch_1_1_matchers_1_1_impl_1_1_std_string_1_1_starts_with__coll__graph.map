@@ -1,0 +1,7 @@
+<map id="Catch::Matchers::Impl::StdString::StartsWith" name="Catch::Matchers::Impl::StdString::StartsWith">
+<area shape="rect" id="node2" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_impl.html" title="Catch::Matchers::Impl\l::MatcherImpl\&lt; StartsWith,\l std::string \&gt;" alt="" coords="5,352,184,416"/>
+<area shape="rect" id="node4" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher.html" title="Catch::Matchers::Impl\l::Matcher\&lt; std::string \&gt;" alt="" coords="16,257,173,303"/>
+<area shape="rect" id="node6" href="$struct_catch_1_1_shared_impl.html" title="Catch::SharedImpl\&lt;\l IShared \&gt;" alt="" coords="25,161,164,207"/>
+<area shape="rect" id="node8" href="$struct_catch_1_1_i_shared.html" title="Catch::IShared" alt="" coords="40,83,149,112"/>
+<area shape="rect" id="node10" href="$class_catch_1_1_non_copyable.html" title="Catch::NonCopyable" alt="" coords="23,5,167,35"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/IView.h" name="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/IView.h">
+<area shape="rect" id="node3" href="$_i_connector_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/IConnector.h" alt="" coords="461,117,627,181"/>
+<area shape="rect" id="node5" href="$_globals_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/Globals.cpp" alt="" coords="84,229,249,293"/>
+<area shape="rect" id="node7" href="$_my_q_app_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/MyQApp.h" alt="" coords="651,229,816,293"/>
+<area shape="rect" id="node11" href="$_viewer_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/Viewer.cpp" alt="" coords="461,341,627,405"/>
+<area shape="rect" id="node22" href="$_desktop_connector_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/desktop/DesktopConnector.h" alt="" coords="273,229,468,293"/>
+<area shape="rect" id="node27" href="$_server_connector_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/server/ServerConnector.h" alt="" coords="1196,229,1369,293"/>
+<area shape="rect" id="node9" href="$_my_q_app_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/MyQApp.cpp" alt="" coords="651,341,816,405"/>
+<area shape="rect" id="node13" href="$_desktop_connector_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/desktop/DesktopConnector.cpp" alt="" coords="227,341,437,405"/>
+<area shape="rect" id="node15" href="$desktop_main_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/desktop/desktopMain.cpp" alt="" coords="840,341,1013,405"/>
+<area shape="rect" id="node17" href="$_server_connector_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/server/ServerConnector.cpp" alt="" coords="1088,341,1277,405"/>
+<area shape="rect" id="node19" href="$server_main_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/server/serverMain.cpp" alt="" coords="1036,453,1201,517"/>
+<area shape="rect" id="node25" href="$_desktop_platform_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/desktop/DesktopPlatform.cpp" alt="" coords="5,341,203,405"/>
+<area shape="rect" id="node30" href="$_server_platform_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/server/ServerPlatform.h" alt="" coords="1301,341,1467,405"/>
+<area shape="rect" id="node33" href="$_server_platform_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/server/ServerPlatform.cpp" alt="" coords="1355,453,1533,517"/>
+</map>

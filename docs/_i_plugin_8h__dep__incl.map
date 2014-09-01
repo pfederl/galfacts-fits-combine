@@ -1,0 +1,18 @@
+<map id="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/IPlugin.h" name="/home/pfederl/Work/ALMAvis/Skeleton3/cpp/common/IPlugin.h">
+<area shape="rect" id="node3" href="$_plugin_manager_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/PluginManager.h" alt="" coords="303,127,479,191"/>
+<area shape="rect" id="node11" href="$_casa_test1_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/casatest1/CasaTest1.h" alt="" coords="617,127,823,191"/>
+<area shape="rect" id="node15" href="$_clock1_plugin_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/clock1/Clock1Plugin.h" alt="" coords="857,127,1057,191"/>
+<area shape="rect" id="node19" href="$_py_cpp_plugin_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/python273/PyCppPlugin.h" alt="" coords="1088,127,1309,191"/>
+<area shape="rect" id="node25" href="$_python273_plugin_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/python273/Python273\lPlugin.h" alt="" coords="1336,118,1533,199"/>
+<area shape="rect" id="node28" href="$_q_image_plugin_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/qimage/QImagePlugin.h" alt="" coords="1564,127,1775,191"/>
+<area shape="rect" id="node32" href="$_generic_plugin_8h.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/tester1/GenericPlugin.h" alt="" coords="1812,127,2017,191"/>
+<area shape="rect" id="node5" href="$_globals_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/Globals.cpp" alt="" coords="5,257,171,321"/>
+<area shape="rect" id="node7" href="$_plugin_manager_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/PluginManager.cpp" alt="" coords="195,257,384,321"/>
+<area shape="rect" id="node9" href="$_viewer_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/common/Viewer.cpp" alt="" coords="408,257,573,321"/>
+<area shape="rect" id="node13" href="$_casa_test1_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/casatest1/CasaTest1.cpp" alt="" coords="597,257,819,321"/>
+<area shape="rect" id="node17" href="$_clock1_plugin_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/clock1/Clock1Plugin.cpp" alt="" coords="843,257,1056,321"/>
+<area shape="rect" id="node21" href="$_py_cpp_plugin_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/python273/PyCppPlugin.cpp" alt="" coords="1080,257,1315,321"/>
+<area shape="rect" id="node23" href="$_python273_plugin_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/python273/Python273\lPlugin.cpp" alt="" coords="1339,249,1536,330"/>
+<area shape="rect" id="node30" href="$_q_image_plugin_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/qimage/QImagePlugin.cpp" alt="" coords="1560,257,1784,321"/>
+<area shape="rect" id="node34" href="$_generic_plugin_8cpp.html" title="/home/pfederl/Work\l/ALMAvis/Skeleton3/cpp\l/plugins/tester1/GenericPlugin.cpp" alt="" coords="1808,257,2029,321"/>
+</map>

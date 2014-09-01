@@ -1,0 +1,10 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="node3" href="$class_slice_n_d.html#ae7fd81caeb5971c2da8024e4ae266b5b" title="forward 1d slice start " alt="" coords="159,29,263,59"/>
+<area shape="rect" id="node6" href="$class_slice_n_d.html#a9029cfb7eeee88a6121aaad0e0e9ea2a" title="forward 1d slice end " alt="" coords="161,107,260,136"/>
+<area shape="rect" id="node9" href="$class_slice_n_d.html#a6b31a9b210b135a549eec8a800198903" title="forward 1d slice step " alt="" coords="159,184,263,213"/>
+<area shape="rect" id="node12" href="$class_slice_n_d.html#a452222b32d6195a9fed86bc4a6ffb661" title="moves to the next index (same as what colon does) " alt="" coords="159,237,263,267"/>
+<area shape="rect" id="node14" href="$class_slice_n_d.html#a831d992312e2e16df8070992d8342a82" title="forward 1d slice index " alt="" coords="156,315,265,344"/>
+<area shape="rect" id="node17" href="$class_slice_n_d.html#a410f7e1b185848b14a93d890fc251d8c" title="figure out which elements to extract for the given dimensions if the numpber of supplied dimensions i..." alt="" coords="156,368,265,397"/>
+<area shape="rect" id="node19" href="$struct_slice1_d_1_1_apply_result.html#ac2df260559adc89d5e25d1b4f1f56239" title="convenience test for error " alt="" coords="315,325,461,371"/>
+<area shape="rect" id="node21" href="$struct_slice1_d_1_1_apply_result.html#af03bd55cd1fe48bf5af1fb00d35cfed8" title="convenience test for single value note, the result could still be an error... " alt="" coords="315,394,461,441"/>
+</map>

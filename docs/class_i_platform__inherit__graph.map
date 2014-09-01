@@ -1,0 +1,4 @@
+<map id="IPlatform" name="IPlatform">
+<area shape="rect" id="node3" href="$class_desktop_platform.html" title="DesktopPlatform" alt="" coords="5,83,125,112"/>
+<area shape="rect" id="node5" href="$class_server_platform.html" title="ServerPlatform" alt="" coords="149,83,259,112"/>
+</map>

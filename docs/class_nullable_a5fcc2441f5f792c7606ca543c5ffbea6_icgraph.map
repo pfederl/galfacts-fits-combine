@@ -1,0 +1,9 @@
+<map id="Nullable::isNull" name="Nullable::isNull">
+<area shape="rect" id="node3" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="176,5,309,51"/>
+<area shape="rect" id="node5" href="$class_nullable.html#a628b276808ba0a7dd99bc295184a1a81" title="safe bool check to see if the value was set " alt="" coords="176,74,309,121"/>
+<area shape="rect" id="node7" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="168,144,317,173"/>
+<area shape="rect" id="node9" href="$class_slice1_d.html#ae340c72af44abc9ea10716bd88784ccd" title="this is adaptation of cpython&#39;s PySlice_GetIndicesEx() https://docs.python.org/2/c&#45;api/slice.html " alt="" coords="165,197,320,227"/>
+<area shape="rect" id="node11" href="$struct_tester.html#a9dddc60b4882130e392944262cca160b" title="Tester::run" alt="" coords="379,144,464,173"/>
+<area shape="rect" id="node13" href="$_slice_tester_8cpp.html#a1d07e5eb11460d618e1b17e29d8baa1b" title="TEST_CASE" alt="" coords="372,197,471,227"/>
+<area shape="rect" id="node15" href="$struct_tester_n_d.html#a461b31ebc9e86ae20fec50ddcd1c2328" title="TesterND::run" alt="" coords="369,251,473,280"/>
+</map>

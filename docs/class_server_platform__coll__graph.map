@@ -1,0 +1,5 @@
+<map id="ServerPlatform" name="ServerPlatform">
+<area shape="rect" id="node2" href="$class_i_platform.html" title="The IPlatform class. " alt="" coords="5,85,80,115"/>
+<area shape="rect" id="node4" href="$class_server_connector.html" title="ServerConnector" alt="" coords="104,85,224,115"/>
+<area shape="rect" id="node8" href="$class_i_connector.html" title="The IConnector interface offers common API that the C++ code uses to communicate with the JavaScript ..." alt="" coords="172,5,257,35"/>
+</map>

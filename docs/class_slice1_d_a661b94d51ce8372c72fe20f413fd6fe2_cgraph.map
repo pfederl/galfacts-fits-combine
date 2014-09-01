@@ -1,0 +1,7 @@
+<map id="Slice1D::apply" name="Slice1D::apply">
+<area shape="rect" id="node3" href="$class_nullable.html#ae1d382129ebba838ff1aaba939d1d14a" title="returns true if the instance holds a value " alt="" coords="363,5,469,35"/>
+<area shape="rect" id="node5" href="$class_nullable.html#a359300b077410402aedc772bda44d7ca" title="returns a reference to the stored value " alt="" coords="369,112,463,141"/>
+<area shape="rect" id="node7" href="$class_slice1_d.html#a86d0642412b721a0b094b2bee1dee82d" title="return true if this slice represents single index slice this is the only difference between [i:i+1] a..." alt="" coords="160,163,315,192"/>
+<area shape="rect" id="node9" href="$class_slice1_d.html#a757713451ba9a00724927d44769575f6" title="positive step case calculation " alt="" coords="161,59,313,88"/>
+<area shape="rect" id="node13" href="$class_slice1_d.html#ad2126e886674a76d2ea88517237f06c0" title="set stop (the index past the last element to be extracted) " alt="" coords="368,59,464,88"/>
+</map>
